@@ -1,3 +1,17 @@
+#Exam-Q4: Write a program that takes four numbers as input and add these numbers into a list. 
+# This number could be positive, negative and zero. After that,
+
+#1) You need to separate negative and positive numbers in two different lists
+
+#2) Also, your program should be able to count the number of zero in the input data set
+
+#3) You need to print all the results on the screen (original data set that user inputs, 
+# the data set contains only negative numbers, 
+# the list of positive numbers, and also the number of zero in the data set).
+
+
+
+
 int1 = int(input("Enter a number: "))
 int2 = int(input("Enter a number: "))
 int3 = int(input("Enter a number: "))
